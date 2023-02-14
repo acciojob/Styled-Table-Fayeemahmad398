@@ -1,1 +1,15 @@
 /* your code */
+body{
+	margin:0;
+}
+thead{
+	background-color:blue;
+	color:white;
+
+}
+.row3,.row5{
+	background-color:lightblue;
+}
+.tabletop{
+	
+}
